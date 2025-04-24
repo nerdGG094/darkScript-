@@ -28,7 +28,7 @@
 
 ### 📫 Entre em contato
 
-- ✉️ Email: [seu-email@example.com](mailto:nerdgg094@gmail.com)
+- ✉️ Email: [nerdgg094@gmail.com](mailto:nerdgg094@gmail.com)
 
 ---
 
