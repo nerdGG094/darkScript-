@@ -1,14 +1,35 @@
-👋 <b> Olá! Bem-vindo </b>🚀
+<h1 align="center">Olá 👋, bem-vindo(a) ao meu GitHub!</h1>
 
-Sou um entusiasta da programação com experiência em Python. Trabalho com bancos de dados SQL, especialmente Oracle e SQLite.
+<p align="center">
+  🚀 Entusiasta da programação com foco em <strong>Python</strong>, automação e bancos de dados.  
+</p>
 
-🔧 <b>Tecnologias e Ferramentas:</b>
+---
 
-✔️ Python – Desenvolvimento de scripts, automações e interfaces gráficas (PyQt5, PySimpleGUI).
+### 🧠 Sobre mim
 
-✔️ SQL (Oracle & SQLite) – Consultas, otimização e manipulação de dados.
+- 💻 Desenvolvedor com sólida experiência em **Python**, com ênfase na criação de scripts, automações e interfaces gráficas.
+- 🗃️ Conhecimento avançado em **bancos de dados relacionais**, especialmente **Oracle** e **SQLite**.
+- 🧰 Apaixonado por **automação de processos**, **manipulação de dados** e **eficiência de sistemas**.
+- 🐧 Usuário avançado de **Linux**, com experiência em administração, shell scripting e otimização de ambiente.
 
-✔️ Linux - Conhecimento avançado sobre sistemas operacionais em linux
+---
 
-<h3 align="left">Ferramentas e linguagens de conhecimento:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+### 🚀 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📫 Entre em contato
+
+- ✉️ Email: [seu-email@example.com](mailto:nerdgg094@gmail.com)
+
+---
+
+> _"A automação é a arte de transformar tarefas repetitivas em soluções inteligentes."_ ✨
