@@ -8,8 +8,8 @@
 
 ### 🧠 Sobre mim
 
-- 💻 Desenvolvedor com sólida experiência em **Python**, com ênfase na criação de scripts, automações e interfaces gráficas.
-- 🗃️ Conhecimento avançado em **bancos de dados relacionais**, especialmente **Oracle** e **SQLite**.
+- 💻 Desenvolvedor com sólida experiência em **Python**, com ênfase na criação de scripts, automações.
+- 🗃️ Conhecimento avançado em **bancos de dados relacionais**, especialmente **Oracle** e **Postgree**.
 - 🧰 Apaixonado por **automação de processos**, **manipulação de dados** e **eficiência de sistemas**.
 - 🐧 Usuário avançado de **Linux**, com experiência em administração, shell scripting e otimização de ambiente.
 
