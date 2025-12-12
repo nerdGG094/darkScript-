@@ -28,7 +28,7 @@
 
 ### 📫 Entre em contato
 
-- ✉️ Email: [nerdgg094@gmail.com](mailto:nerdgg094@gmail.com)
+- ✉️ Email: [n3rd.gg@proton.me](mailto:n3rd.gg@proton.me)
 
 ---
 
