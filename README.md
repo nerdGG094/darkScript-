@@ -1,35 +1,36 @@
-<h1 align="center">Olá 👋, bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">Hello 👋, welcome to my GitHub!</h1>
 
 <p align="center">
-  🚀 Entusiasta da programação com foco em <strong>Python</strong>, automação e bancos de dados.  
+  🚀 Programming enthusiast focused on <strong>Python</strong>, automation, and databases.
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 💻 Desenvolvedor com sólida experiência em **Python**, com ênfase na criação de scripts, automações.
-- 🗃️ Conhecimento avançado em **bancos de dados relacionais**, especialmente **Oracle** e **Postgree**.
-- 🧰 Apaixonado por **automação de processos**, **manipulação de dados** e **eficiência de sistemas**.
-- 🐧 Usuário avançado de **Linux**, com experiência em administração, shell scripting e otimização de ambiente.
+- 💻 Developer with solid experience in <strong>Python</strong>, with a strong focus on building scripts and automations.
+- 🗃️ Advanced knowledge of <strong>relational databases</strong>, especially <strong>Oracle</strong> and <strong>PostgreSQL</strong>.
+- 🧰 Passionate about <strong>process automation</strong>, <strong>data manipulation</strong>, and <strong>system efficiency</strong>.
+- 🐧 Advanced <strong>Linux</strong> user with experience in system administration, shell scripting, and environment optimization.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 📫 Entre em contato
+### 📫 Contact
 
-- ✉️ Email: [n3rd.gg@proton.me](mailto:n3rd.gg@proton.me)
+- ✉️ Email: <a href="mailto:n3rd.gg@proton.me">n3rd.gg@proton.me</a>
 
 ---
 
-> _"A automação é a arte de transformar tarefas repetitivas em soluções inteligentes."_ ✨
+> <i>"Automation is the art of turning repetitive tasks into intelligent solutions."</i> ✨
+
